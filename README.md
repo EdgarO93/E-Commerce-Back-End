@@ -18,13 +18,13 @@
 After downloading this repository, go into the folder of this project. Then run npm install or i. 
 
 ### Usage
-First run mySQL -u root -p and enter password. Source the schema.sql.
+First run mySQL -u root -p and enter password. Source the schema.sql. Then edit the env.Example file with your MYSQL username and password. Then save your file as .env . Then you can use run npm seed to load the database, then run npm watch to run nodemon or run npm start to just run the server.js if there are no updates expected to be made. 
 
 ### Contributing
 Feel free to fork or clone this repo and make your own versions.
 
 ### Tests
-There are no tests.
+API Get, POST, PUT, and DELETE routes in Insomnia Core can be opened and tested to create,update and delete data in the database.
 
 
 
