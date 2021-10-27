@@ -1,6 +1,7 @@
 # E-Commerce Back-End
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 ## Description
+The E-Commerce Back-End app is the backend portion of an E-Commerce website built with Express.js,MySQL, Sequelize, and NodeJS. The SQL database includes tables for products, categories, tags, and product tags. API Routes are derived to perform RESTful CRUD operations using sequelized models and are tested in Insomnia. This project was helpful in further understand object relational mapping and interacting with databases. In future developments, I would like to integrate prompts to perform the CRUD operations to the database.
 
 ## Table of Contents
 
