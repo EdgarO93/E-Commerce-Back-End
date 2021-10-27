@@ -19,7 +19,7 @@ The E-Commerce Back-End app is the backend portion of an E-Commerce website buil
 After downloading this repository, go into the folder of this project. Then run npm install or i. 
 
 ### Usage
-First run mySQL -u root -p and enter password. Source the schema.sql. Then edit the env.Example file with your MYSQL username and password. Then save your file as .env . Then you can use run npm seed to load the database, then run npm watch to run nodemon or run npm start to just run the server.js if there are no updates expected to be made. 
+First run mySQL -u root -p and enter password. Source the schema.sql. Then edit the env.Example file with your MYSQL username and password. Then save your file as .env . Then you can use run npm seed to load the database, then run npm watch to run nodemon or run npm start to just run the server.js if there are no updates expected to be made. You can open Insomnia Core to enter any route create in the /routes/api directory. Using GET,POST,PUT and DELETE functions of Insomnia you can view and update the database.
 
 ### Contributing
 Feel free to fork or clone this repo and make your own versions.
