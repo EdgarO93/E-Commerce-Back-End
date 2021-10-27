@@ -31,10 +31,10 @@ API Get, POST, PUT, and DELETE routes in Insomnia Core can be opened and tested 
 
 ###  Screenshots 
 View of Routes in Insomnia
-![plot](assets/image-1.png)
+![plot](assets/image1.png)
 
 View of Terminal running server
-![plot](assets/image-2.png)
+![plot](assets/image2.png)
 
 ## Video
 
