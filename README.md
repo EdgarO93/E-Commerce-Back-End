@@ -39,7 +39,11 @@ View of Terminal running server
 ## Video
 
 
-[VIDEO HERE]
+
+
+https://user-images.githubusercontent.com/87279051/139000791-58853f39-4bab-4d50-95c2-2986c9e6c99e.mp4
+
+
 
 
 <a href ="https://watch.screencastify.com/v/MDKERduVavWcMvHkka7n" target= "_blank" > Link to video. </a> 
