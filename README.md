@@ -30,8 +30,11 @@ API Get, POST, PUT, and DELETE routes in Insomnia Core can be opened and tested 
 
 
 ###  Screenshots 
+View of Routes in Insomnia
+![plot](assets/image-1.png)
 
-
+View of Terminal running server
+![plot](assets/image-2.png)
 
 ## Video
 
@@ -39,7 +42,7 @@ API Get, POST, PUT, and DELETE routes in Insomnia Core can be opened and tested 
 [VIDEO HERE]
 
 
-<a href ="#" target= "_blank" > Link to video. </a> 
+<a href ="https://watch.screencastify.com/v/MDKERduVavWcMvHkka7n" target= "_blank" > Link to video. </a> 
 
 
 ###  License
